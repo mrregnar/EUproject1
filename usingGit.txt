@@ -38,3 +38,5 @@ Now that Git is setup to remote repository:
 git push
 
 git clone https://github.com/mrregnar/EUproject1.git
+
+
