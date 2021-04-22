@@ -40,4 +40,8 @@ git push
 git clone https://github.com/mrregnar/EUproject1.git
 
 
-a
+//After setup to maintain git hub
+git status
+git add .
+git commit -m "updated git commands doc"
+git push
